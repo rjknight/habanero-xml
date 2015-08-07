@@ -7136,6 +7136,10 @@
 	<attribute>
 		<id>FRU_NAME</id>
 		<default></default>
+    </attribute>
+	<attribute>
+		<id>FRU_ID</id>
+		<default></default>
 	</attribute>
 	<attribute>
 		<id>IPMI_INSTANCE</id>
