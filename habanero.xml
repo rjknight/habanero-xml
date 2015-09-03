@@ -2334,6 +2334,10 @@
 	<property>
 	<id>FRU_ID</id>
 	<value>2</value>
+    </property>
+    <property>
+	<id>CENTAUR_ECID_FRU_ID</id>
+	<value>42</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -2370,7 +2374,11 @@
 	</property>
 	<property>
 	<id>FRU_ID</id>
-	<value>2</value>
+    <value>2</value>
+    </property>
+    <property>
+	<id>CENTAUR_ECID_FRU_ID</id>
+	<value>42</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -2440,7 +2448,11 @@
 	<property>
 	<id>FRU_ID</id>
 	<value>2</value>
-	</property>
+    </property>
+	<property>
+	<id>CENTAUR_ECID_FRU_ID</id>
+	<value>42</value>
+    </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value>2</value>
@@ -2477,7 +2489,11 @@
 	<property>
 	<id>FRU_ID</id>
 	<value>2</value>
-	</property>
+    </property>
+	<property>
+	<id>CENTAUR_ECID_FRU_ID</id>
+	<value>42</value>
+    </property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value>3</value>
